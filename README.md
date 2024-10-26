@@ -5,7 +5,7 @@
 ---
 
 - 🌱 **Currently learning:** Advanced Data Structures, Algorithm Design, and Full-Stack Development with JavaScript and MERN
-- 💻 **Projects:** Explore my work in databases, React applications, 3D web visualizations with Three.js, and AI-driven tools.
+- 💻 **Projects:** Explore my work in React applications, 3D web visualizations with Three.js, and AI-driven tools.
 - 🧠 **Interests:** Artificial Intelligence, Game Development, Data Visualization, and Backend Systems
 
 ---
@@ -58,7 +58,7 @@
   <a href="https://www.linkedin.com/in" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:Yuppathak4@outlook.com">
+  <a href="mailto:uppathak4@outlook.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>

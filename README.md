@@ -1,14 +1,5 @@
 <h1 align="center">Hi 👋, I'm OLDHel1Otrope</h1>
-<h3 align="center">A pteranodon with a Passion for Problem-Solving and Innovation</h3>
 
-
----
-
-- 🌱 **Currently learning:** Advanced Data Structures, Algorithm Design, and Full-Stack Development with JavaScript and MERN
-- 💻 **Projects:** Explore my work in React applications, 3D web visualizations with Three.js, and AI-driven tools.
-- 🧠 **Interests:** Artificial Intelligence, Game Development, Data Visualization, and Backend Systems
-
----
 
 <h2 align="center">🛠️ Technologies & Tools</h2>
 
@@ -23,40 +14,3 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
-
-
-
----
-
-<h2 align="center">📚 Noteworthy Projects</h2>
-
-### 🖼️ TerminatAD
-> A project focused on removing advertisements from images using U-Net segmentation, complemented by a Selenium-based search feature for product recognition.
-
-### 🏎️ Car Racing Simulation
-> A racing simulation with realistic 2D vector-based steering mechanics for immersive driving experiences.
-
-### 📊 Graph Plotting Web Application
-> A versatile application for visualizing 2D and 3D graphs, solving simultaneous equations, and plotting equations from CSV data.
-
-### 🏢 Procedural Construction Web App
-> An innovative blueprint generator for creating 3D building visualizations based on user-defined parameters.
-
----
-
-<h2 align="center">🤔 What I'm Currently Working On</h2>
-
-- Building a **resume builder** with customizable templates and a powerful editor.
-- Developing a **React component library** with **drag-and-drop** features and advanced formatting capabilities.
-- Preparing for technical interviews by mastering **DBMS, DSA, Java, and networking concepts**.
-
----
-<p align="center">
-  <a href="https://www.linkedin.com/in" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:uppathak4@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-<p align="center">I am always on the lookout for innovative project ideas that blend creativity and technical skills!</p>

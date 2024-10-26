@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm OLDHel1Otrope</h1>
 <h3 align="center">Aspiring Software Engineer with a Passion for Problem-Solving and Innovation</h3>
 
-<p align="center">
-  <a href="https://github.com/OLDHel1Otrope?tab=followers">
-    <img src="https://img.shields.io/github/followers/OLDHel1Otrope?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/OLDHel1Otrope?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Click_Here-blue?style=for-the-badge&logo=github" />
-  </a>
-</p>
 
 ---
 
@@ -32,14 +24,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
----
 
-<h2 align="center">📈 GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OLDHel1Otrope&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OLDHel1Otrope&layout=compact&theme=radical" alt="Top Languages" />
-</div>
 
 ---
 

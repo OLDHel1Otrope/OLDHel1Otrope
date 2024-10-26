@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm OLDHel1Otrope</h1>
-<h3 align="center">Aspiring Software Engineer with a Passion for Problem-Solving and Innovation</h3>
+<h3 align="center">A pteranodon with a Passion for Problem-Solving and Innovation</h3>
 
 
 ---
